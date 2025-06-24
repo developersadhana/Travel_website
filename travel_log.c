@@ -1,3 +1,5 @@
+// This part of the code generates a travel log on your local system.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
